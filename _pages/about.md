@@ -1,8 +1,12 @@
+I am a second-year PhD student in department of Mathematics in Yale University.
+
 Education
 ======
 
 - PhD in Mathematics, Yale University, 2023-
-- BSc in Mathematics and Data Science with Honours in Mathematics, the University of Sydney, 2019-2022
+-- Advisor: Yair Minsky
+- BSc in Mathematics and Data Science, the University of Sydney, 2019-2022
+--  First class Honours with university medal
 
 Research Interest
 ======
