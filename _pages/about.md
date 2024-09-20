@@ -4,9 +4,8 @@ Education
 ======
 
 - PhD in Mathematics, Yale University, 2023-
--- Advisor: Yair Minsky
+  - Advisor: Yair Minsky
 - BSc in Mathematics and Data Science, the University of Sydney, 2019-2022
---  First class Honours with university medal
 
 Research Interest
 ======
