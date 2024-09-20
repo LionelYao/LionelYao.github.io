@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -22,13 +22,13 @@ repository               : "LionelYao/LionelYao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Youheng Yao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"I am doing my PhD in Mathematics in Yale University"
+  location         : "New Haven"
+  employer         : "Yale University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "youheng.yao@yale.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
