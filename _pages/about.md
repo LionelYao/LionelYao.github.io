@@ -25,7 +25,7 @@ Research Interest
 
 Publication
 ======
-- "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with Stephan Tillmann, To appear in Algebraic and Geometric Topology
+- "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with Stephan Tillmann, to appear in Algebraic and Geometric Topology
 
 Conference
 ======
