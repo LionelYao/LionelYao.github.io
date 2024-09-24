@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate TA"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "the University of Sydney"
+date: 2021-02-01
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Tutor for MATH1021 (First-year Calculus) and MATH2022 (Second-year linear algebra) in Semester 1, 2023
+Tutor for MATH1004 (First-year discrete mathematics) in Semester 2, 2022
+Tutor for MATH1002 (First-year linear algebra) in Semester 1, 2022
+Demonstrator for MATH1005 (First-year statistics) in Semester 2, 2021
