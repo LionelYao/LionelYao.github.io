@@ -2,11 +2,10 @@
 title: "Graduate TA"
 collection: teaching
 type: ""
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Yale University"
+date: 2023-2024
+location: "New Haven, US"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Summer teaching assistant for MATH S105 (Calculus 2) in Summer, 2024
+Graduate teaching assistant for MATH120 (Calculus 3) in Spring, 2024
 
