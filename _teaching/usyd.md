@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /usyd
 venue: "the University of Sydney"
-date: 2021-2023
+date: 
 location: "Sydney, Australia"
 ---
 
