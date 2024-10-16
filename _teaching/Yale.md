@@ -4,6 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/Yale
 venue: "Yale University"
+date: 2024-01-01
 location: "New Haven, US"
 ---
 
