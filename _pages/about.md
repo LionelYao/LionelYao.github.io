@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a second-year PhD student in department of Mathematics in Yale University.
+I am a second-year PhD student in the department of Mathematics in Yale University.
 
 Education
 ======
