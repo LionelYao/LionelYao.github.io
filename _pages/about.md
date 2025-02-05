@@ -30,5 +30,6 @@ Publication
 
 Conference
 ======
+- "Low-dimensional phenomena: geometry and dynamics", IHP Paris, Jun 2025
 - "Flows and Foliations in 3-manifolds", the St. Louis Topology Conference, May 2024
 - "Foliations and Diffeomorphism Groups", CIRM, Dec 2024
