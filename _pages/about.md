@@ -30,6 +30,8 @@ Publication
 
 Conference
 ======
-- "Low-dimensional phenomena: geometry and dynamics", IHP Paris, Jun 2025
-- "Flows and Foliations in 3-manifolds", the St. Louis Topology Conference, May 2024
+- "Low-dimensional phenomena: geometry and dynamics", IHP, Jun 2025
+- "GATSBY", Brown, Apr 2025
 - "Foliations and Diffeomorphism Groups", CIRM, Dec 2024
+- "Flows and Foliations in 3-manifolds", the St. Louis Topology Conference, May 2024
+
