@@ -34,6 +34,7 @@ Conference
 - "Computational problems about 3-manifolds, associated groups and varieties", Newark, Oct 2025
 - "Low-dimensional Phenomena: Geometry and Dynamics", IHP, Jun 2025
 - "Geometric Group Theory and Related Topics", Beijing, Jun 2025
+- "Georgia International Topology Conference", Athens, May 2025
 - "Links in Dimension 3 and 4", ICERM, May 2025
 - "GATSBY", Brown, Apr 2025
 - "Foliations and Diffeomorphism Groups", CIRM, Dec 2024
