@@ -26,8 +26,8 @@ Research Interest
 
 Publication
 ======
-- "Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds", with Tam Cheetham-West, in preparation
-- "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with Stephan Tillmann, to appear in Algebraic and Geometric Topology
+- "Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), in preparation
+- "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html), to appear in *Algebraic and Geometric Topology*
 
 Conference
 ======
