@@ -40,3 +40,8 @@ Conference
 - "Foliations and Diffeomorphism Groups", CIRM, Dec 2024
 - "Flows and Foliations in 3-manifolds", the St. Louis Topology Conference, May 2024
 
+Talk
+======
+- "Finite quotients and A-polynomials", ICERM, May 2025
+- "Finite covers and A-polynomials", Brown, Apr 2025
+- "Character varieties of once-punctured torus bundles", Sydney, Sep 2022
