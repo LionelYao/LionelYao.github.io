@@ -32,6 +32,7 @@ Publication
 Conference
 ======
 - "Computational problems about 3-manifolds, associated groups and varieties", Newark, Oct 2025
+- "Knots, groups, and manifolds", Montreal, Aug 2025
 - "Low-dimensional Phenomena: Geometry and Dynamics", IHP, Jun 2025
 - "Geometric Group Theory and Related Topics", Beijing, Jun 2025
 - "Georgia International Topology Conference", Athens, May 2025
