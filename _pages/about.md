@@ -22,11 +22,11 @@ Education
 Research Interest
 ======
 - I am interested in low-dimensional geometry and topology, especially 3-manifold topology.
-- Some particular interests are: foliations in 3-manifolds, left-orderability of 3-manifold groups, veering triangulations and character varieties.
+- Some particular interests are: left-orderability and profinite completions of 3-manifold groups, character varieties and surface representations.
 
 Publication
 ======
-- "[Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds](https://arxiv.org/abs/2506.12289)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home)
+- "[Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds](https://arxiv.org/abs/2506.12289)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), submitted
 - "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html), to appear in *Algebraic and Geometric Topology*
 
 Conference
