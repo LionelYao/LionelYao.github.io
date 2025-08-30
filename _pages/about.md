@@ -9,12 +9,12 @@ redirect_from:
 
 
 
-I am a second-year PhD student in the department of Mathematics in Yale University.
+I am a third-year PhD student in the department of Mathematics in Yale University.
 
 Education
 ======
 
-- PhD in Mathematics, Yale University, 2023-
+- PhD in Mathematics, Yale University, 2023-now
   - Advisor: [Yair Minsky](https://sites.google.com/view/yair-minsky/home)
 - BSc in Mathematics and Data Science, the University of Sydney, 2019-2022
   - Honours in Mathematics (first class Honours with Univ. Medal) under the supervision of [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html)
