@@ -26,7 +26,7 @@ Research Interest
 
 Publication
 ======
-- "L2 quotient algorithm for hyperholic 3-manifold groups", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), in preparation
+- "L2 quotient algorithm for hyperbolic 3-manifold groups", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), in preparation
 - "[Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds](https://arxiv.org/abs/2506.12289)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), submitted
 - "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html), to appear in *Algebraic and Geometric Topology*
 
