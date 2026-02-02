@@ -32,7 +32,7 @@ Publication
 
 Conference
 ======
-- I will attend the program "Topological and Geometric Structures in Low Dimensions" at SMRI from Jan 2026 to May 2026
+- I will attend the program "Topological and Geometric Structures in Low Dimensions" at SLMath from Jan 2026 to May 2026
 - "Computational problems about 3-manifolds, associated groups and varieties", Newark, Oct 2025
 - "Knots, groups, and manifolds", Montreal, Aug 2025
 - "Low-dimensional Phenomena: Geometry and Dynamics", IHP, Jun 2025
