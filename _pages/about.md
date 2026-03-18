@@ -21,8 +21,7 @@ Education
 
 Research Interest
 ======
-- I am interested in low-dimensional geometry and topology, especially 3-manifold topology.
-- Some particular interests are: left-orderability and profinite completions of 3-manifold groups, character varieties and surface representations.
+- I am interested in low-dimensional geometry and topology and geometric group theory. In particular, I work on profinite completions of 3-manifold groups and character varieties.
 
 Publication
 ======
