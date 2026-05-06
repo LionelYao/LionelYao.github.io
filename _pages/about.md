@@ -23,7 +23,7 @@ Research Interest
 ======
 - My research is mainly in geometric group theory and low-dimensional topology. In particular, I work on studying profinite and residual properties of the fundamental groups of 3-manifolds and I use tools from combinatorics. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
 
-- Recently, I am also interested in large language model and particularly AI for Math: both how to use AI in my research and how to improve its ability in math-proof.
+- Recently, I am also interested in large language models and particularly AI for Math: both how to use AI in my research and how to improve its ability in math-proof.
 
 Publication
 ======
