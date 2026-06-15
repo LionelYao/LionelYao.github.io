@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a third-year PhD student in the department of Mathematics in Yale University.
+I am a third-year PhD student in the department of Mathematics in Yale University. 
 
 Education
 ======
@@ -21,9 +21,11 @@ Education
 
 Research Interest
 ======
-- My research is mainly in geometric group theory and low-dimensional topology. In particular, I work on profinite and residual properties of the fundamental groups of 3-manifolds and I use tools from combinatorics. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
+- Recently, my research focuses on geometric deep learning and large language models. I am also interested in AI for Math: both how to use AI in my research and how to improve its ability in math-proof.
 
-- Recently, I am also interested in geometric deep learning, large language models and particularly AI for Math: both how to use AI in my research and how to improve its ability in math-proof.
+- Mathematically, I study geometric group theory and low-dimensional topology. In particular, I work on profinite and residual properties of the fundamental groups of 3-manifolds and I use tools from combinatorics. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
+
+
 
 Publication
 ======
@@ -33,7 +35,8 @@ Publication
 
 Conference
 ======
-- I will attend the program "Topological and Geometric Structures in Low Dimensions" at SLMath from Jan 2026 to May 2026
+- "Future of Mathematics Symposium", Stanford, May 2026
+- "Topological and Geometric Structures in Low Dimensions" at SLMath from Jan 2026 to May 2026
 - "Computational problems about 3-manifolds, associated groups and varieties", Newark, Oct 2025
 - "Knots, groups, and manifolds", Montreal, Aug 2025
 - "Low-dimensional Phenomena: Geometry and Dynamics", IHP, Jun 2025
