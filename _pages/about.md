@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a third-year PhD student in the department of Mathematics in Yale University. 
+I am a fourth-year PhD student in the department of Mathematics in Yale University. 
 
 Education
 ======
@@ -28,9 +28,16 @@ Research Interest
 
 Publication
 ======
+Mathematics
 - "[Taut polynomials from finite quotients for fibered hyperbolic 3-manifolds](https://arxiv.org/abs/2606.21039v1)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), [Biao Ma](https://sites.google.com/view/biao-ma) and [Jun Ueki](https://researchers2.ao.ocha.ac.jp/html/200000791_en.html), submitted
 - "[Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds](https://arxiv.org/abs/2506.12289)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), submitted
 - "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html), *[Algebraic & Geometric Topology 25 (2025) 5389–5437](https://msp.org/agt/2025/25-9/p05.xhtml)*
+
+AI
+- "Busemannformer: Horospherical Self-Attention for Hyperbolic Graph Transformers", **Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang.
+  *NeurIPS 2026*
+- "RuleSmith: Multi-Agent LLMs for Automated Game Balancing", Ziyao Zeng, Hao Wang, Chen Liu, **Youheng Yao**, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan.
+  *NeurIPS 2026*.
 
 Conference
 ======
