@@ -34,6 +34,8 @@ Mathematics
 - "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html), *[Algebraic & Geometric Topology 25 (2025) 5389–5437](https://msp.org/agt/2025/25-9/p05.xhtml)*
 
 AI
+- "[3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341)", Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong, Wang Qin, Xinlei Yu, **Youheng Yao**, Jie Zhang, Kun-Yu Lin, Rong Liu, Yinyuan Zhao, Yajie Zhao, Meiqi Guo, Jiebo Luo, Lei Shu, Yunhao Ge, Xinyu Hu, Laurent Itti.
+  *arXiv preprint, 2026*. [Project](https://3dcodeverse.com/) | [Code](https://github.com/gaoypeng/3dcodeverse).
 - "Busemannformer: Horospherical Self-Attention for Hyperbolic Graph Transformers", **Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang.
   *NeurIPS 2026*
 - "RuleSmith: Multi-Agent LLMs for Automated Game Balancing", Ziyao Zeng, Hao Wang, Chen Liu, **Youheng Yao**, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan.
