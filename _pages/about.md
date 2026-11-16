@@ -37,7 +37,7 @@ AI
 
 - "[BusemannFormer: Horospherical Self-Attention for Hyperbolic Graph Transformers](https://github.com/LionelYao/Busemannformer/blob/main/paper/BusemannFormer.pdf)", **Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang.
   *NeurIPS 2026*
-- "RuleSmith: Multi-Agent LLMs for Automated Game Balancing", Ziyao Zeng, Hao Wang, Chen Liu, **Youheng Yao**, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan.
+- "[RuleSmith: Multi-Agent LLMs for Automated Game Balancing](https://arxiv.org/abs/2602.06232)", Ziyao Zeng, Hao Wang, Chen Liu, **Youheng Yao**, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan.
   *NeurIPS 2026*.
 - "[3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341)", Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong, Wang Qin, Xinlei Yu, **Youheng Yao**, Jie Zhang, Kun-Yu Lin, Rong Liu, Yinyuan Zhao, Yajie Zhao, Meiqi Guo, Jiebo Luo, Lei Shu, Yunhao Ge, Xinyu Hu, Laurent Itti.
   *arXiv preprint, 2026*. [Project](https://3dcodeverse.com/) | [Code](https://github.com/gaoypeng/3dcodeverse).
