@@ -35,7 +35,7 @@ Mathematics
 
 AI
 
-- "[BusemannFormer: Horospherical Self-Attention for Hyperbolic Graph Transformers](https://github.com/LionelYao/Busemannformer/blob/main/paper/BusemannFormer.pdf)", **Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang.
+- "[BusemannFormer: Horospherical Self-Attention for Hyperbolic Graph Transformers](https://arxiv.org/abs/2611.27167)", **Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang.
   *NeurIPS 2026*
 - "[RuleSmith: Multi-Agent LLMs for Automated Game Balancing](https://arxiv.org/abs/2602.06232)", Ziyao Zeng, Hao Wang, Chen Liu, **Youheng Yao**, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan.
   *NeurIPS 2026*.
