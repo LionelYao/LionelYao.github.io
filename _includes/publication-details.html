@@ -1,0 +1,7 @@
+{{ include.paper.authors | markdownify }}
+<p>
+  <em>{% if include.paper.venueurl %}<a href="{{ include.paper.venueurl }}">{{ include.paper.venue | escape }}</a>{% else %}{{ include.paper.venue | escape }}{% endif %}</em>
+  · <a href="{{ include.paper.paperurl }}">Paper</a>
+  {% if include.paper.projecturl %} · <a href="{{ include.paper.projecturl }}">Project</a>{% endif %}
+  {% if include.paper.codeurl %} · <a href="{{ include.paper.codeurl }}">Code</a>{% endif %}
+</p>

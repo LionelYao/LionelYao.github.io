@@ -1,49 +1,38 @@
 ---
 permalink: /
-title: ""
+title: "Research"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+I am a fourth-year PhD student in mathematics at Yale University, advised by [Yair Minsky](https://sites.google.com/view/yair-minsky/home). I came to AI through hyperbolic geometry and now work on multi-agent systems for game design and 3D coding.
 
+## Mathematics
 
-I am a fourth-year PhD student in the department of Mathematics in Yale University. 
+I began in low-dimensional topology and geometric group theory, using combinatorial tools to study profinite and residual properties of 3-manifold groups. My work on [boundary slopes](https://arxiv.org/abs/2506.12289) and [taut polynomials](https://arxiv.org/abs/2606.21039) asks what the finite quotients of a fundamental group can tell us about the manifold. I also study character varieties of finitely generated groups, particularly those of [once-punctured torus bundles](https://arxiv.org/abs/2206.14954).
 
-Education
-======
+## Math for AI
 
-- PhD in Mathematics, Yale University, 2023-now
-  - Advisor: [Yair Minsky](https://sites.google.com/view/yair-minsky/home)
-- BSc in Mathematics and Data Science, the University of Sydney, 2019-2022
-  - Honours in Mathematics (first class Honours with Univ. Medal) under the supervision of [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html)
+My work in hyperbolic geometry led me to think about how transformers represent hierarchies in graphs. In [BusemannFormer](https://arxiv.org/abs/2611.27167) (NeurIPS 2026), we use directions on the boundary of hyperbolic space to define attention. Each query chooses a direction, then scores each key by its Busemann depth in that direction.
 
-Research Interest
-======
+## Multi-Agent LLMs
 
-- I study geometric group theory and low-dimensional topology. In particular, I work on profinite and residual properties of the fundamental groups of 3-manifolds and I use tools from combinatorics. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
+In my current AI research, I study how large language model (LLM) agents work together and use feedback to decide what to try next.
 
+- In [RuleSmith](https://arxiv.org/abs/2602.06232) (NeurIPS 2026), agents play opposing factions in a strategy game. We use their win rates to search for rule changes that make the factions more evenly matched.
+- In [3DCodeVerse](https://arxiv.org/abs/2610.22341), agents write code for different parts of a 3D scene. They use rendered views and geometric measurements to find and correct errors in the scene.
 
+[Full publication list and coauthors]({{ '/publications/' | relative_url }})
 
-Publication
-======
-Mathematics
-- "[Taut polynomials from finite quotients for fibered hyperbolic 3-manifolds](https://arxiv.org/abs/2606.21039v1)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), [Biao Ma](https://sites.google.com/view/biao-ma) and [Jun Ueki](https://researchers2.ao.ocha.ac.jp/html/200000791_en.html), submitted
-- "[Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds](https://arxiv.org/abs/2506.12289)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), submitted
-- "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html), *[Algebraic & Geometric Topology 25 (2025) 5389–5437](https://msp.org/agt/2025/25-9/p05.xhtml)*
+## Education
 
-AI
+- PhD in Mathematics, Yale University, 2023–present
+- BSc in Mathematics and Data Science, the University of Sydney, 2019–2022. First Class Honours in Mathematics with the University Medal, supervised by [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html).
 
-- "[BusemannFormer: Horospherical Self-Attention for Hyperbolic Graph Transformers](https://arxiv.org/abs/2611.27167)", **Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang.
-  *NeurIPS 2026*
-- "[RuleSmith: Multi-Agent LLMs for Automated Game Balancing](https://arxiv.org/abs/2602.06232)", Ziyao Zeng, Hao Wang, Chen Liu, **Youheng Yao**, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan.
-  *NeurIPS 2026*.
-- "[3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341)", Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong, Wang Qin, Xinlei Yu, **Youheng Yao**, Jie Zhang, Kun-Yu Lin, Rong Liu, Yinyuan Zhao, Yajie Zhao, Meiqi Guo, Jiebo Luo, Lei Shu, Yunhao Ge, Xinyu Hu, Laurent Itti.
-  *arXiv preprint, 2026*. [Project](https://3dcodeverse.com/) | [Code](https://github.com/gaoypeng/3dcodeverse).
+## Conferences
 
-Conference
-======
 - "Future of Mathematics Symposium", Stanford, May 2026
 - "Topological and Geometric Structures in Low Dimensions" at SLMath from Jan 2026 to May 2026
 - "Computational problems about 3-manifolds, associated groups and varieties", Newark, Oct 2025
@@ -56,8 +45,8 @@ Conference
 - "Foliations and Diffeomorphism Groups", CIRM, Dec 2024
 - "Flows and Foliations in 3-manifolds", the St. Louis Topology Conference, May 2024
 
-Talk
-======
+## Talks
+
 - "Finite quotients and A-polynomials", Newark, Oct 2025
 - "Finite quotients and A-polynomials", ICERM, May 2025
 - "Finite covers and A-polynomials", Brown, Apr 2025
