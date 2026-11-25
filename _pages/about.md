@@ -1,14 +1,21 @@
 ---
 permalink: /
-title: "Education"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-- **Yale University** · PhD in Mathematics, 2023–present. I am a fourth-year student advised by [Yair Minsky](https://sites.google.com/view/yair-minsky/home).
-- **The University of Sydney** · BSc in Mathematics and Data Science, 2019–2022. I received First Class Honours in Mathematics and the University Medal. My honours supervisor was [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html).
+I am a fourth-year PhD student in the department of Mathematics in Yale University.
+
+Education
+======
+
+- PhD in Mathematics, Yale University, 2023-now
+  - Advisor: [Yair Minsky](https://sites.google.com/view/yair-minsky/home)
+- BSc in Mathematics and Data Science, the University of Sydney, 2019-2022
+  - Honours in Mathematics (first class Honours with Univ. Medal) under the supervision of [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html)
 
 # Research
 
