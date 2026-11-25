@@ -5,17 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% for area in site.publication_category %}
-  {% assign papers = site.publications | where: "category", area[0] | sort: "date" | reverse %}
-  {% if papers.size > 0 %}
-    <section aria-labelledby="{{ area[0] }}">
-      <h2 id="{{ area[0] }}">{{ area[1].title }}</h2>
-      {% for paper in papers %}
-        <article class="archive__item">
-          <h3 class="archive__item-title"><a href="{{ paper.url | relative_url }}">{{ paper.title | escape }}</a></h3>
-          {% include publication-details.html paper=paper %}
-        </article>
-      {% endfor %}
-    </section>
-  {% endif %}
-{% endfor %}
+{% include publication-list.html %}

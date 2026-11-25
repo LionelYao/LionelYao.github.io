@@ -23,6 +23,10 @@ My recent research focuses on **deep learning theory** and **multi-agent LLMs**.
 
 My earlier research was in **low-dimensional topology and geometric group theory**. I studied what the finite quotients of a 3-manifold’s fundamental group reveal about the manifold, particularly its [boundary slopes](https://arxiv.org/abs/2506.12289) and [taut polynomials](https://arxiv.org/abs/2606.21039). I also studied character varieties of finitely generated groups, especially those of [once-punctured torus bundles](https://arxiv.org/abs/2206.14954).
 
+# Publications
+
+{% include publication-list.html %}
+
 # Conferences
 
 - "Future of Mathematics Symposium", Stanford, May 2026
