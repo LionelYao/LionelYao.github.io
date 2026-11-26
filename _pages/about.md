@@ -19,9 +19,11 @@ Education
 
 # Research
 
-My recent research focuses on **deep learning theory** and **multi-agent LLMs**. In [BusemannFormer](https://arxiv.org/abs/2611.27167) (NeurIPS 2026), we used hyperbolic geometry to design an attention mechanism for graph transformers and studied how it relates to dot-product attention as curvature approaches zero. In [RuleSmith](https://arxiv.org/abs/2602.06232) (NeurIPS 2026), we used LLM agents to playtest a strategy game and identify rule changes that even out the factions’ win rates. In [3DCodeVerse](https://arxiv.org/abs/2610.22341), agents write code for different parts of a 3D scene and revise it using rendered views and geometric measurements.
+My recent research focuses on **mathematics for deep learning** and **multi-agent LLM**. 
+In [BusemannFormer](https://arxiv.org/abs/2611.27167), we used hyperbolic geometry to design new attention mechanism for graph transformers. 
+In [RuleSmith](https://arxiv.org/abs/2602.06232), we built a framework that combines multi-agent LLM self-play with Bayesian optimisation to automatically balance game rules.
 
-My earlier research was in **low-dimensional topology and geometric group theory**. I studied what the finite quotients of a 3-manifold’s fundamental group reveal about the manifold, particularly its [boundary slopes](https://arxiv.org/abs/2506.12289) and [taut polynomials](https://arxiv.org/abs/2606.21039). I also studied character varieties of finitely generated groups, especially those of [once-punctured torus bundles](https://arxiv.org/abs/2206.14954).
+My earlier research was in **low-dimensional topology and geometric group theory**. In particular, I work on profinite and residual properties of the fundamental groups of 3-manifolds. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
 
 # Publications
 
