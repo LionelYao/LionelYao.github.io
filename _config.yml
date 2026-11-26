@@ -77,10 +77,10 @@ author:
 publication_category:
   mathematics:
     title: 'Mathematics'
-  math-for-ai:
-    title: 'Math for AI'
+  deep-learning:
+    title: 'Deep Learning'
   multi-agent-llms:
-    title: 'Multi-Agent LLMs'
+    title: 'Multi-Agent LLM'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

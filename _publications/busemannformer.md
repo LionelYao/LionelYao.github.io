@@ -1,6 +1,6 @@
 ---
 title: 'BusemannFormer: Horospherical Self-Attention for Hyperbolic Graph Transformers'
-category: math-for-ai
+category: deep-learning
 date: 2026-11-20
 authors: '**Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang'
 venue: 'NeurIPS 2026'
