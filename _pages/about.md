@@ -19,9 +19,9 @@ Education
 
 # Research
 
-My recent research focuses on **mathematics for deep learning** and **multi-agent LLM**. 
-In [BusemannFormer](https://arxiv.org/abs/2611.27167), we used hyperbolic geometry to design new attention mechanism for graph transformers. 
-In [RuleSmith](https://arxiv.org/abs/2602.06232), we built a framework that combines multi-agent LLM self-play with Bayesian optimisation to automatically balance game rules.
+My recent research focuses on **mathematics for deep learning** and **multi-agent LLM**.
+- In [BusemannFormer](https://arxiv.org/abs/2611.27167), we used hyperbolic geometry to design new attention mechanism for graph transformers. 
+- In [RuleSmith](https://arxiv.org/abs/2602.06232), we built a framework that combines multi-agent LLM self-play with Bayesian optimisation to automatically balance game rules.
 
 My earlier research was in **low-dimensional topology and geometric group theory**. In particular, I work on profinite and residual properties of the fundamental groups of 3-manifolds. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
 
