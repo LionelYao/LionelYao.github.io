@@ -2,14 +2,12 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-
-
-I am a fourth-year PhD student in the department of Mathematics in Yale University. 
+I am a fourth-year PhD student in the department of Mathematics in Yale University.
 
 Education
 ======
@@ -19,31 +17,21 @@ Education
 - BSc in Mathematics and Data Science, the University of Sydney, 2019-2022
   - Honours in Mathematics (first class Honours with Univ. Medal) under the supervision of [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html)
 
-Research Interest
-======
+# Research
 
-- I study geometric group theory and low-dimensional topology. In particular, I work on profinite and residual properties of the fundamental groups of 3-manifolds and I use tools from combinatorics. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
+My recent research focuses on **mathematics for deep learning** and **multi-agent LLM**.
+- In [BusemannFormer](https://arxiv.org/abs/2611.27167), we leverage hyperbolic geometry to design new novel attention mechanism for graph transformers. 
+- In [RuleSmith](https://arxiv.org/abs/2602.06232), we built a framework that combines multi-agent LLM self-play with Bayesian optimisation to automatically balance game rules.
+- In [3DCodeVerse](https://arxiv.org/abs/2610.22341), we released over two million examples for 3D coding and built a multi-agent system that writes, tests, and refines programs for editable 3D objects and scenes.
 
+My earlier research was in **low-dimensional topology and geometric group theory**. In particular, I work on profinite and residual properties of the fundamental groups of 3-manifolds. I also study character varieties of finitely generated groups (in particular, 3-manifold groups).
 
+# Publications
 
-Publication
-======
-Mathematics
-- "[Taut polynomials from finite quotients for fibered hyperbolic 3-manifolds](https://arxiv.org/abs/2606.21039v1)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), [Biao Ma](https://sites.google.com/view/biao-ma) and [Jun Ueki](https://researchers2.ao.ocha.ac.jp/html/200000791_en.html), submitted
-- "[Finite covers and strict boundary slopes of cusped hyperbolic 3-manifolds](https://arxiv.org/abs/2506.12289)", with [Tam Cheetham-West](https://sites.google.com/view/tam-cheetham-west/home), submitted
-- "[On the topology of character varieties of once-punctured torus bundles](https://arxiv.org/abs/2206.14954)", with [Stephan Tillmann](https://www.maths.usyd.edu.au/u/tillmann/index.html), *[Algebraic & Geometric Topology 25 (2025) 5389–5437](https://msp.org/agt/2025/25-9/p05.xhtml)*
+{% include publication-list.html %}
 
-AI
+# Conferences
 
-- "[BusemannFormer: Horospherical Self-Attention for Hyperbolic Graph Transformers](https://arxiv.org/abs/2611.27167)", **Youheng Yao**, Ziyao Zeng, Wenbo Liao, Tianqi Wang.
-  *NeurIPS 2026*
-- "[RuleSmith: Multi-Agent LLMs for Automated Game Balancing](https://arxiv.org/abs/2602.06232)", Ziyao Zeng, Hao Wang, Chen Liu, **Youheng Yao**, Jingcheng Ni, Tianyu Liu, Xiatao Sun, Fengyu Yang, Chenyu You, Xiaofeng Liu, Daniel Rakita, Ronald R. Coifman, Yuval Kluger, Zhiwen Fan.
-  *NeurIPS 2026*.
-- "[3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341)", Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong, Wang Qin, Xinlei Yu, **Youheng Yao**, Jie Zhang, Kun-Yu Lin, Rong Liu, Yinyuan Zhao, Yajie Zhao, Meiqi Guo, Jiebo Luo, Lei Shu, Yunhao Ge, Xinyu Hu, Laurent Itti.
-  *arXiv preprint, 2026*. [Project](https://3dcodeverse.com/) | [Code](https://github.com/gaoypeng/3dcodeverse).
-
-Conference
-======
 - "Future of Mathematics Symposium", Stanford, May 2026
 - "Topological and Geometric Structures in Low Dimensions" at SLMath from Jan 2026 to May 2026
 - "Computational problems about 3-manifolds, associated groups and varieties", Newark, Oct 2025
@@ -56,8 +44,8 @@ Conference
 - "Foliations and Diffeomorphism Groups", CIRM, Dec 2024
 - "Flows and Foliations in 3-manifolds", the St. Louis Topology Conference, May 2024
 
-Talk
-======
+# Talks
+
 - "Finite quotients and A-polynomials", Newark, Oct 2025
 - "Finite quotients and A-polynomials", ICERM, May 2025
 - "Finite covers and A-polynomials", Brown, Apr 2025
