@@ -75,12 +75,12 @@ author:
 
 # Research areas in the order shown on the publications page
 publication_category:
-  mathematics:
-    title: 'Mathematics'
   deep-learning:
     title: 'Deep Learning'
   multi-agent-llms:
     title: 'Multi-Agent LLM'
+  mathematics:
+    title: 'Mathematics'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
